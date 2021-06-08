@@ -1,0 +1,13 @@
+Package: powerCircadian
+Title: An R package for circadian data power calculation
+Version: 0.0.0
+Author: Wei Zong, Zhiguang Huo
+Maintainer: Wei Zong <wez97@pitt.edu>
+Description: Theoretical and Monte-Carlo based power calulation for circadian data.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+Depends: R (>= 3.6)
+Imports: nloptr, minpack.lm
